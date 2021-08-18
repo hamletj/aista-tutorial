@@ -4,9 +4,11 @@ The folder *developer upload sample 20201212* contains all the files that need t
 
   *clf.pickle* and *vectorizer.pickle* are model objects. 
   
-	If you are interested in, the training of them can be found here [Jupyter](https://github.com/deenaariff/Starly/blob/master/jupyter-notebook/Integrated%20Master%20File_v8.ipynb/)
+	If you are interested in, the training of them can be found here:
+[Jupyter - Star Prediction](https://github.com/deenaariff/Starly/blob/master/jupyter-notebook/Integrated%20Master%20File_v8.ipynb/)
 		
-	More information about training the setiment model is here [Tutorial](https://medium.com/@aariff.deen/creating-a-real-time-star-prediction-application-for-yelp-reviews-using-sentiment-analysis-9c7e94978bf6.)
+	More information about training the setiment model is here:
+[Star Prediction](https://medium.com/@aariff.deen/creating-a-real-time-star-prediction-application-for-yelp-reviews-using-sentiment-analysis-9c7e94978bf6.)
     
   *main.py* is the main script that process the input and call the model objects to give the output.
   
